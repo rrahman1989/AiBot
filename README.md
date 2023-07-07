@@ -1,9 +1,7 @@
 #### why chatbot?
 
 ```
-Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time,
-they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing 
-the typical cost of customer service.
+Chatbot applications streamline interactions between people and services. This is meant for new opportunities to improve  process and operational efficiency by reducing the typical cost of actual labor service.
 
 ```
 
@@ -11,7 +9,6 @@ the typical cost of customer service.
 
          * ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
          * xml based markup language human interface
-         * aliebot what is chat-bot
 
 #### A.L.I.C.E:
 
